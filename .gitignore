@@ -61,12 +61,6 @@ CMakeLists.txt
 *.code-workspace
 .stfolder
 .tags
-.vscode/c_cpp_properties.json
-.vscode/ipch/
-.vscode/last.sql
-.vscode/launch.json
-.vscode/tasks.json
-.vscode/temp.sql
 tags
 
 # Ignore image/font files
@@ -109,3 +103,7 @@ compile_commands.json
 
 # VIA(L) json files that don't belong in QMK repo
 via*.json
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
